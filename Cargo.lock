@@ -3628,6 +3628,7 @@ dependencies = [
  "tracing",
  "urlencoding",
  "uuid",
+ "wip",
 ]
 
 [[package]]
@@ -8642,6 +8643,12 @@ checksum = "5a5364e9d77fcdeeaa6062ced926ee3381faa2ee02d3eb83a5c27a8825540829"
 dependencies = [
  "memchr",
 ]
+
+[[package]]
+name = "wip"
+version = "0.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ff02b25445065187bf23eedf9920e033c371b7fafce801e4443448d6e1f31242"
 
 [[package]]
 name = "wiremock"
